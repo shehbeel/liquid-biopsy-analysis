@@ -1,0 +1,18 @@
+﻿SDG_ID,Specimen_Type,Diagnosis,Short_Histology,Tumor_Subtype,Relapse,Survival_Status
+15635-37,"CSF, Plasma",Low-grade glioma/astrocytoma (WHO grade I/II),LGG,pilocytic astrocytoma,Yes,Alive
+15635-43,"CSF, Plasma",High-grade glioma/astrocytoma (WHO grade III/IV),HGG,DMG,Yes,Deceased
+15635-45,"CSF, Plasma",High-grade glioma/astrocytoma (WHO grade III/IV),HGG,DMG,Yes,Deceased
+15635-46,"CSF, Plasma",Low-grade glioma/astrocytoma (WHO grade I/II),LGG,pilocytic astrocytoma,No,Alive
+15635-53,Plasma,High-grade glioma/astrocytoma (WHO grade III/IV),HGG,DMG,Yes,Deceased
+15635-60,"CSF, Plasma",Low-grade glioma/astrocytoma (WHO grade I/II),LGG,pilocytic astrocytoma,No,Alive
+15635-68,"CSF, Plasma",Low-grade glioma/astrocytoma (WHO grade I/II),LGG,pilocytic astrocytoma,No,Alive
+15635-80,"CSF, Plasma",Low-grade glioma/astrocytoma (WHO grade I/II),LGG,pilocytic astrocytoma,No,Alive
+15635-87,"CSF, Plasma",High-grade glioma/astrocytoma (WHO grade III/IV),HGG,DMG,Yes,Deceased
+15635-90,Plasma,Low-grade glioma/astrocytoma (WHO grade I/II),LGG,pilocytic astrocytoma,Yes,Alive
+15635-100,"CSF, Plasma",Low-grade glioma/astrocytoma (WHO grade I/II),LGG,pilocytic astrocytoma,Yes,Alive
+15635-101,"CSF, Plasma",Low-grade glioma/astrocytoma (WHO grade I/II),LGG,pilocytic astrocytoma,No,Alive
+15635-127,Plasma,Low-grade glioma/astrocytoma (WHO grade I/II),LGG,pilocytic astrocytoma,Yes,Alive
+15635-134,Plasma,Low-grade glioma/astrocytoma (WHO grade I/II),LGG,pilocytic/pilomyxoid astrocytoma,Yes,Alive
+15635-154,Plasma,High-grade glioma/astrocytoma (WHO grade III/IV),HGG,DMG,Yes,Deceased
+15635-156,"CSF, Plasma",High-grade glioma/astrocytoma (WHO grade III/IV),HGG,DMG,Yes,Deceased
+15635-239,"CSF, Plasma",High-grade glioma/astrocytoma (WHO grade III/IV),HGG,DMG,Yes,Alive
