@@ -1,0 +1,21 @@
+﻿SDG_ID,CSF_Specimen,Plasma_Specimen,Diagnosis,Short_Histology,Tumor_Subtype,Relapse,Survival_Status
+15635-37,TRUE,TRUE,Low-grade glioma/astrocytoma (WHO grade I/II),LGG,pilocytic astrocytoma,Yes,Alive
+15635-43,TRUE,TRUE,High-grade glioma/astrocytoma (WHO grade III/IV),HGG,DMG,Yes,Deceased
+15635-45,TRUE,TRUE,High-grade glioma/astrocytoma (WHO grade III/IV),HGG,DMG,Yes,Deceased
+15635-46,TRUE,TRUE,Low-grade glioma/astrocytoma (WHO grade I/II),LGG,pilocytic astrocytoma,No,Alive
+15635-53,FALSE,TRUE,High-grade glioma/astrocytoma (WHO grade III/IV),HGG,DMG,Yes,Deceased
+15635-60,TRUE,TRUE,Low-grade glioma/astrocytoma (WHO grade I/II),LGG,pilocytic astrocytoma,No,Alive
+15635-68,TRUE,TRUE,Low-grade glioma/astrocytoma (WHO grade I/II),LGG,pilocytic astrocytoma,No,Alive
+15635-80,TRUE,TRUE,Low-grade glioma/astrocytoma (WHO grade I/II),LGG,pilocytic astrocytoma,No,Alive
+15635-87,TRUE,TRUE,High-grade glioma/astrocytoma (WHO grade III/IV),HGG,DMG,Yes,Deceased
+15635-90,FALSE,TRUE,Low-grade glioma/astrocytoma (WHO grade I/II),LGG,pilocytic astrocytoma,Yes,Alive
+15635-100,TRUE,TRUE,Low-grade glioma/astrocytoma (WHO grade I/II),LGG,pilocytic astrocytoma,Yes,Alive
+15635-101,TRUE,TRUE,Low-grade glioma/astrocytoma (WHO grade I/II),LGG,pilocytic astrocytoma,No,Alive
+15635-127,FALSE,TRUE,Low-grade glioma/astrocytoma (WHO grade I/II),LGG,pilocytic astrocytoma,Yes,Alive
+15635-134,FALSE,TRUE,Low-grade glioma/astrocytoma (WHO grade I/II),LGG,pilocytic/pilomyxoid astrocytoma,Yes,Alive
+15635-154,FALSE,TRUE,High-grade glioma/astrocytoma (WHO grade III/IV),HGG,DMG,Yes,Deceased
+15635-156,TRUE,TRUE,High-grade glioma/astrocytoma (WHO grade III/IV),HGG,DMG,Yes,Deceased
+15635-239,TRUE,TRUE,High-grade glioma/astrocytoma (WHO grade III/IV),HGG,DMG,Yes,Alive
+15635-161,FALSE,TRUE,High-grade glioma/astrocytoma (WHO grade III/IV),HGG,Glioblastoma,Yes,Unknown
+15635-214,TRUE,TRUE,High-grade glioma/astrocytoma (WHO grade III/IV),HGG,anaplastic astrocytoma,Yes,Unknown
+15635-234,FALSE,TRUE,High-grade glioma/astrocytoma (WHO grade III/IV),HGG,anaplastic astrocytoma,Yes,Unknown
